@@ -1,0 +1,25 @@
+.section_header{
+  font-family: "Noto Serif";
+}
+
+h1{
+  font-size: 4rem;
+  font-weight: bolder;
+}
+
+.container-fluid {
+  margin: 0;
+  padding: 0;
+}
+
+.top-container {
+  background-color: #F5F5F5;
+}
+
+#top-container-left {
+  padding-top: 10%;
+}
+
+.image_home_gaurd {
+  width: 500px;
+}
